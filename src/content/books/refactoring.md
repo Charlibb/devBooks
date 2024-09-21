@@ -3,7 +3,7 @@ title: Refactoring
 author: Martin Fowler
 img: refactoring.jpg
 readtime: 355
-description: good practices for refactoring code
+description: Good practices for refactoring code
 buy:
   germany: https://www.amazon.es/Refactoring-Improving-Existing-Addison-wesley-Signature/dp/0134757599
   world: https://martinfowler.com/books/refactoring.html
