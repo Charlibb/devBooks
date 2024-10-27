@@ -3,7 +3,7 @@ title : Atomic Habits
 author: James Clear
 img: atomic-habits.jpg
 readtime : 320
-description: A comprehensive, practical guide on how to change your habits and get 1% better every day. Using a framework called the Four Laws of Behavior Change, Atomic Habits teaches readers a simple set of rules for creating good habits and breaking bad ones. Read the full summary to glean 3 key lessons from Atomic Habits, learn how to build a habit in 4 simple steps, and get a handy reference guide for the strategies recommended throughout the book.
+description: A comprehensive, practical guide on how to change your habits and get 1% better every day.
 buy : 
   germany : https://www.amazon.de/-/en/Atomic-Habits-EXP-Proven-Build/dp/0593189647/ref=sr_1_1?crid=3PSLOXKI2YK7Q&dib=eyJ2IjoiMSJ9.ei0mT4CTRwNx4NBEzNf2W1D9zYtRh59Sk40ZYIvp0DsnvHbaxW-pa1IucQ2N4MJm6XgnTnCGKwb9VHD3pxm8y_AZtJcPhh1kAQTFktj5KujIgfXzvxuScVsME3INT5IxkBeFnIw3_CL0ye5f6beNeXYcsTTKbnZxy4KGYaFst1DBH9LnjNT9WUTFKiAX6BN2YGuNAOeHalexeDQucJEQIvkSu-JfvRuvBfbEx8oBuO4.qTAP137VnosYIVD8RSEQdXfnK6-8y5yxz7sy2vHrPbg&dib_tag=se&keywords=atomic+habits&qid=1726837545&sprefix=atomi%2Caps%2C109&sr=8-1
   world : https://jamesclear.com/atomic-habits-summary
